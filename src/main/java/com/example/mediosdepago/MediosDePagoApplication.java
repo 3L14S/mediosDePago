@@ -2,11 +2,12 @@ package com.example.mediosdepago;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 import com.mercadopago.MercadoPagoConfig;
 
 @SpringBootApplication
-public class MediosDePagoApplication {
+public class MediosDePagoApplication{
 
 	public static void main(String[] args) {
 		SpringApplication.run(MediosDePagoApplication.class, args);
