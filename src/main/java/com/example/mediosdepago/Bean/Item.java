@@ -3,7 +3,7 @@ package com.example.mediosdepago.Bean;
 import java.math.BigDecimal;
 
 import lombok.Builder;
-import lombok.Getter;
+
 
 
 
